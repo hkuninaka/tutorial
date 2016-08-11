@@ -3,3 +3,5 @@ This is a sample.
 contents are modified.
 
 testing version control.
+
+Airにclone済み
