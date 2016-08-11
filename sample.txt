@@ -5,3 +5,5 @@ contents are modified.
 testing version control.
 
 Airにclone済み
+
+最初にgit configしないとね
